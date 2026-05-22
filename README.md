@@ -78,12 +78,12 @@ I'm an **AI Engineer** specializing in Generative AI, LLM optimization, and mult
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghunandanvaddi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghunandanvaddi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghu7425&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghu7425&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghunandanvaddi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghu7425&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ I'm an **AI Engineer** specializing in Generative AI, LLM optimization, and mult
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raghunandanvaddi&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Raghu7425&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -116,7 +116,7 @@ I'm an **AI Engineer** specializing in Generative AI, LLM optimization, and mult
 
 > *"I don't just experiment with AI — I ship it."*
 
-Feel free to reach out at **raghunandanvaddi@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/raghunandan-vaddi). Always open to collaborating on impactful AI projects.
+Feel free to reach out at **raghunandanvaddi@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/raghunandan-vaddi/). Always open to collaborating on impactful AI projects.
 
 ---
 <p align="center">Made with ❤️ by Raghunandan Vaddi</p>
