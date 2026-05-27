@@ -24,7 +24,6 @@ I'm an **AI Engineer** specializing in Generative AI, LLM optimization, and mult
 - 🤖 Obsessed with building AI agents that do real work (not just demos)
 - 🎙️ Built voice AI pipelines that cut perceived latency by ~40%
 - 🏦 Delivered multi-agent banking systems handling 10+ intents in real-time
-- 📚 Final year B.E. student @ BGS College of Engineering, Bengaluru
 
 ---
 
